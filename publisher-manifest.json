@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "621a5d24d4065a3a7bdb1a32",
+  "owner": "wan9900",
+  "repo": "page-e2d6f5891b219b5a44eff4a2",
+  "title": "Geekspeed",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e2d6f5891b219b5a44eff4a2",
+      "a": "Geekspeed",
+      "b": "",
+      "entity": "Geekspeed",
+      "brand": "Geekspeed",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ad7c27f8ff7c222c7f0fc510e48f256a5a98401a15aa76fce1e23d5c5bab8799",
+      "content": {
+        "keyword1": "Geekspeed",
+        "keyword2": "",
+        "primary_entity": "Geekspeed",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Geekspeed是面向跨境加速的官方服务平台，提供机场订阅、多端VPN客户端下载以及针对办公、流媒体与游戏的线路优化，支持按月或年付灵活选择。",
+          "AI_DESCRIPTION": "Geekspeed是面向跨境加速的官方服务平台，提供机场订阅、多端VPN客户端下载以及针对办公、流媒体与游戏的线路优化，支持按月或年付灵活选择。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#071525;color:#e0f2fe;font-size:16px;line-height:1.7;overflow-x:hidden;}*{box-sizing:border-box;}a{color:#22d3ee;text-decoration:none;}main{max-width:720px;margin:0 auto;padding:0 20px 64px;overflow-wrap:break-word;}h1{font-size:clamp(2.2rem,8vw,3.4rem);color:#22d3ee;margin:0 0 12px;font-weight:700;letter-spacing:.02em;}h2{color:#67e8f9;font-size:1.45rem;margin:2.4rem 0 0.9rem;padding-bottom:.35rem;border-bottom:1px solid #155e75;}h3{color:#a5f3fc;font-size:1.12rem;margin:1.35rem 0 .45rem;}p,li{color:#bae6fd;}ul{margin:.4rem 0 1rem;padding-left:1.2em;}.hero{padding:88px 20px 48px;text-align:center;}.hero p{max-width:34em;margin:0 auto;font-size:1.15rem;color:#a5f3fc;}.plan{border:1px solid #164e63;border-radius:8px;padding:18px 18px 8px;margin:0 0 14px;background:#0a2436;}.plan-featured{border-color:#22d3ee;}.badge{display:inline-block;color:#071525;background:#22d3ee;font-size:.75rem;font-weight:700;padding:2px 8px;border-radius:4px;margin-bottom:8px;}.price{font-size:1.25rem;color:#22d3ee;margin:0 0 8px;}details{background:#0c2a3e;border:1px solid #155e75;border-radius:6px;margin:0 0 10px;}summary{padding:12px 16px;font-weight:600;color:#ecfeff;}details p{padding:0 16px 14px;margin:0;}footer{max-width:720px;margin:0 auto;padding:8px 20px 40px;color:#7dd3fc;font-size:.92rem;}#faq{padding-top:8px;}</style><header class=\"hero\"><h1>Geekspeed</h1><p>稳定高速的网络加速服务。机场订阅一键导入，全平台 VPN 客户端走官方下载，覆盖办公、流媒体与游戏加速。</p></header><main><section id=\"intro\"><h2>品牌简介</h2><p>Geekspeed 是面向跨境访问的官方加速平台，以机场订阅为核心，把多线路节点池、客户端与套餐管理放在同一套流程里。用户完成订阅后即可复制配置，在电脑、手机或路由器上导入并连接，减少对零散第三方工具的依赖。</p><p>服务定位于日常浏览、远程协作、公开学术资源访问、流媒体播放以及需要更低延迟的游戏场景。旗舰与团队方案提供原生流媒体解锁与 IPLC 游戏优化线路，基础方案则适合流量与设备数更克制的个人使用。</p><p>请通过本站获取客户端与说明，避免来源不明的安装包。官方身份以本页域名、套餐公示与客户端更新通道为准。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境远程办公</h3><p>视频会议、云盘同步与代码仓库访问对链路稳定性敏感。团队版支持更多同时在线设备与专属高带宽节点，适合小组共用一条订阅。</p><h3>流媒体与资料检索</h3><p>观看海外公开影视、课程或文档站点时，可优先选择标注解锁的节点。旗舰版强调全节点原生流媒体能力，基础版覆盖常见基础平台。</p><h3>游戏加速</h3><p>对战与开放世界游戏对丢包和延迟更敏感。旗舰版含 IPLC 专线游戏加速优化，适合把游戏流量单独走低抖动线路。</p><h3>多设备日常上网</h3><p>手机、电脑与平板同时在线时，按套餐设备上限分配即可。家庭或个人轻量需求可从基础版起步，流量不足再升级。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>选择套餐并获取订阅</h3><p>在套餐方案中确认流量、设备数与线路类型，完成支付后进入用户中心复制机场订阅链接。该链接用于客户端批量更新节点，无需逐条添加。</p><h3>下载官方客户端</h3><p>打开本页下载专区，按系统选择 Windows、macOS、Android 或 iOS 说明。路由器用户可参考常见软路由插件导入方式。只使用官网提供的安装来源。</p><h3>导入配置并连接</h3><p>安装完成后选择订阅导入或粘贴链接，等待节点列表刷新。建议挑选延迟较低的线路，按客户端指引开启系统代理或 TUN，使浏览器与应用一并走加速通道。</p><h3>日常切换与支持</h3><p>线路波动时直接换节点；定期在客户端内更新订阅。旗舰版含 7x24 优先工单，团队版另有专属客户经理通道，年付用户处理更靠前。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下价格为官网公示档位，可按月或按年支付。年付可锁定全年额度。流量为极速通道当月额度，用尽后可升级或等待重置。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan plan-featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"download\"><h2>客户端官方下载</h2><p>Geekspeed 客户端由官方维护，用于导入机场订阅、测速选节点并保持协议更新。请在本站下载专区获取对应系统版本，完成安装后再粘贴订阅链接。</p><p>目前说明覆盖 Windows 10/11、macOS、Android 8 及以上，以及 iOS 配置方式；OpenWrt 等软路由可按通用订阅导入。具体点击与权限步骤以各端最新说明为准，核心流程见上方操作说明。</p><p><a href=\"#guide\">返回导入教程</a> · <a href=\"#plans\">查看套餐</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Geekspeed 和普通单一出口 VPN 有什么区别？</summary><p>Geekspeed 采用机场订阅，一次导入即可在多个线路间切换，而不是绑定单一出口。需要流媒体或游戏优化时，可改用对应专线，而不必更换整套软件。</p></details><details><summary>如何完成官网订阅并开始加速？</summary><p>先在套餐方案里选定基础版、旗舰版或团队版并完成支付，再在用户中心复制订阅链接，下载官方客户端后导入即可连接。首次建议开启全局或 TUN 模式确认流量已走加速通道。</p></details><details><summary>流量用尽或设备超限怎么办？</summary><p>当月极速流量用尽后可升级套餐或等待自然月重置。同时在线设备超过套餐上限时，新连接可能失败，需在客户端退出闲置设备或改用更高档位。</p></details><details><summary>旗舰版的流媒体解锁和 IPLC 分别解决什么问题？</summary><p>全节点原生流媒体解锁用于减少播放平台对数据中心 IP 的限制；IPLC 专线则缩短游戏数据包绕行路径，降低抖动。基础版以普通节点池和基础解锁为主，不包含上述强化项。</p></details><details><summary>客户端应该从哪里下载才算官方？</summary><p>请只通过本页客户端官方下载说明获取安装来源，不要使用网盘转存或来路不明的修改版。导入时使用自己的订阅链接，避免把配置发给他人导致设备数被占满。</p></details><details><summary>年付与工单支持如何计算？</summary><p>各套餐均给出按年付价格，一次性覆盖十二个月额度。旗舰版提供 7x24 优先工单，团队版在此基础上增加专属客户经理，适合需要固定对接人的小组。</p></details><details><summary>企业或工作室能否做路由定制？</summary><p>团队版支持企业定制路由，可按办公网段或应用分流。具体规则在开通后由客户经理协助配置，不在基础版与旗舰版默认范围内。</p></details></section><section id=\"ads\"><h2>广告与合作</h2><p>节点合作、品牌互换与企业开通请通过官网公示的客服入口联系，本页不放置跳转脚本或弹层。展示信息仅用于说明 Geekspeed 套餐与下载路径。</p></section><section id=\"links\"><h2>友情链接</h2><p><a href=\"#intro\">品牌简介</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#download\">官网下载</a> · <a href=\"#faq\">常见问题</a></p><p>相关主题入口：网络加速器、VPN 梯子、机场订阅、客户端官方下载。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer>Geekspeed 官方网站 · 机场订阅与 VPN 客户端下载说明页 · <a href=\"#intro\">回到顶部</a></footer>",
+          "hash": "54f380f1f3f48afcf98d47200b42ae776521c77857ba139b44a5d2c2d33cabe4",
+          "seo": {
+            "title": "Geekspeed官网 - 高速VPN梯子网络加速器与机场客户端官方下载",
+            "keywords": "Geekspeed,Geekspeed VPN,Geekspeed机场,梯子,网络加速器,VPN客户端,官方下载,机场订阅,IPLC游戏加速",
+            "description": "Geekspeed是面向跨境加速的官方服务平台，提供机场订阅、多端VPN客户端下载以及针对办公、流媒体与游戏的线路优化，支持按月或年付灵活选择。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pianyihao.cn",
+    "host": "p-bbaff4072e.pianyihao.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "pianyihao.cn",
+      "url": "https://pianyihao.cn/",
+      "label": "v2SpaceX",
+      "apex": "pianyihao.cn",
+      "kind": null,
+      "identity": "udpnwkmrjse/page-50b2d854b3d4e00399d1cc75"
+    },
+    {
+      "host": "tepxpax.cn",
+      "url": "https://tepxpax.cn/",
+      "label": "Geekspeed",
+      "apex": "tepxpax.cn",
+      "kind": null,
+      "identity": "evckbvq/page-abdb866c4cea17ab29638c44"
+    },
+    {
+      "host": "ubuggzj.cn",
+      "url": "https://ubuggzj.cn/",
+      "label": "Geekspeed",
+      "apex": "ubuggzj.cn",
+      "kind": null,
+      "identity": "gcwduuufg/page-929c7271f2965ba4ca08c081"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "74cdf656b65de7fc77ed29d6f00998da1242ba42ca61e91b229302290326eba1",
+    "sitemap.xml": "e13c0c16d3bcefd1e57d4056676c6fb6ef6b12e57aac85cf790a8cf3da70424c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "980e971408037e791f286bb31fdc35a00ac8df6d7b953ae7237063d9af2ef627",
+    "robots.txt": "168583159cbbaf028251f99c2baee80bd081ec1e92cadc81114396bc6ae63e8d",
+    "cf4d440766035f72acc82fa99ccac36b.txt": "971b3bff0d7eae3c63d022536584b003054d7b118699207243e343f3487155e1"
+  },
+  "revision": "afa3f1da241f6fe9cb957ab8bb94e9cf8fcf8b58101ba26d2f1f1fa44c2c09b1"
+}
